@@ -108,7 +108,7 @@ body{
   transform: scale(0.9) translateY(-15px);
 }
 .line-1 {
-  margin-right: 3%;
+  margin-right:3%;
 }
 .line-2 {
   margin-right: 3%;
@@ -156,7 +156,7 @@ body{
   }
   .top-section {
     flex-direction: column;
-    align-items: flex-start;
+    align-items: center;
   }
   .top-left {
     margin-bottom: 20px;
@@ -187,7 +187,7 @@ body{
   .design {
     margin-top: 30px;
     flex-direction: column;
-    align-items: flex-start;
+    align-items: center;
   }
   .main {
   width: 300px;
@@ -200,9 +200,17 @@ body{
   .paragraph {
     font-size: 11px;
   }
-    
-  
-  
+  .line-1{
+    margin-right:0%;  
+  }
+
+  .line-2{
+    margin-right:0%;  
+  }  
+
+  .line-3{
+    margin-right:0%;  
+  }  
 }
 
 
