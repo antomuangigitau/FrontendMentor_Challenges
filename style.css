@@ -108,13 +108,13 @@ body{
   transform: scale(0.9) translateY(-15px);
 }
 .line-1 {
-  margin-right: 30px;
-}
+  margin-right: 1%;
 .line-2 {
-  margin-right: 30px;
+  margin-right: 1%;
   margin-bottom: -40px;
 }
 .line-3 {
+  margin-right:1%;
   margin-bottom: -80px;
 }
 
