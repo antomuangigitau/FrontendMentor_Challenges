@@ -200,17 +200,9 @@ body{
   .paragraph {
     font-size: 11px;
   }
-  .line-1{
+  .line-1, .line-2, .line-3{
     margin-right:0%;  
-  }
-
-  .line-2{
-    margin-right:0%;  
-  }  
-
-  .line-3{
-    margin-right:0%;  
-  }  
+  } 
 }
 
 
